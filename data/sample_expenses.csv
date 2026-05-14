@@ -1,0 +1,120 @@
+Date,Description,Amount,Category
+2024-01-02,Swiggy food delivery,450,Food
+2024-01-03,Amazon shopping,1200,Shopping
+2024-01-04,Metro card recharge,500,Travel
+2024-01-05,Netflix subscription,649,Entertainment
+2024-01-06,Electricity bill,1800,Bills
+2024-01-07,Zomato dinner,380,Food
+2024-01-08,Uber ride,220,Travel
+2024-01-09,Pharmacy medicines,650,Medical
+2024-01-10,Swiggy breakfast,180,Food
+2024-01-11,Flipkart purchase,3200,Shopping
+2024-01-12,Spotify premium,119,Entertainment
+2024-01-13,Fuel petrol,1500,Travel
+2024-01-14,Restaurant lunch,750,Food
+2024-01-15,Mobile bill,499,Bills
+2024-01-16,Online course Udemy,1299,Education
+2024-01-17,Zomato pizza,420,Food
+2024-01-18,Auto rickshaw,150,Travel
+2024-01-19,Doctor consultation,800,Medical
+2024-01-20,Grocery store,2100,Food
+2024-01-21,Amazon prime,1499,Entertainment
+2024-01-22,Swiggy lunch,310,Food
+2024-01-23,Bus pass monthly,900,Travel
+2024-01-24,Internet broadband,999,Bills
+2024-01-25,Gym membership,2000,Medical
+2024-01-26,Zomato biryani,390,Food
+2024-01-27,Myntra clothes,2800,Shopping
+2024-01-28,Movie tickets PVR,600,Entertainment
+2024-01-29,Home loan EMI,15000,EMI
+2024-01-30,Swiggy dessert,220,Food
+2024-01-31,Book purchase,450,Education
+2024-02-01,Zomato sushi,850,Food
+2024-02-02,Ola cab,380,Travel
+2024-02-03,Amazon gadget,4500,Shopping
+2024-02-04,Water bill,350,Bills
+2024-02-05,Swiggy chinese,290,Food
+2024-02-06,Medical lab test,1200,Medical
+2024-02-07,Coursera course,2999,Education
+2024-02-08,Car EMI,8000,EMI
+2024-02-09,Zomato burger,250,Food
+2024-02-10,Petrol station,1800,Travel
+2024-02-11,AJIO shopping,1600,Shopping
+2024-02-12,Disney hotstar,299,Entertainment
+2024-02-13,Electricity bill,2100,Bills
+2024-02-14,Valentine dinner,2500,Food
+2024-02-15,Swiggy cake,450,Food
+2024-02-16,Rapido bike,80,Travel
+2024-02-17,Chemist medicines,320,Medical
+2024-02-18,YouTube premium,129,Entertainment
+2024-02-19,Grocery big basket,1800,Food
+2024-02-20,Home loan EMI,15000,EMI
+2024-02-21,Nykaa cosmetics,1200,Shopping
+2024-02-22,Book subscription,599,Education
+2024-02-23,Zomato thali,330,Food
+2024-02-24,Metro pass,400,Travel
+2024-02-25,Broadband bill,999,Bills
+2024-02-26,Swiggy midnight,480,Food
+2024-02-27,Gym fee,2000,Medical
+2024-02-28,Amazon order,2200,Shopping
+2024-03-01,Zomato breakfast,190,Food
+2024-03-02,Petrol fill,1600,Travel
+2024-03-03,Myntra sale,3500,Shopping
+2024-03-04,Netflix,649,Entertainment
+2024-03-05,Mobile recharge,499,Bills
+2024-03-06,Swiggy lunch,350,Food
+2024-03-07,Pharmacy,420,Medical
+2024-03-08,Udemy python,799,Education
+2024-03-09,Home loan EMI,15000,EMI
+2024-03-10,Zomato biryani,520,Food
+2024-03-11,Auto,130,Travel
+2024-03-12,Electricity,1950,Bills
+2024-03-13,Amazon electronics,6500,Shopping
+2024-03-14,Swiggy friday,680,Food
+2024-03-15,Doctor visit,900,Medical
+2024-03-16,Spotify,119,Entertainment
+2024-03-17,Grocery store,2400,Food
+2024-03-18,Uber pool,180,Travel
+2024-03-19,Zomato dinner,440,Food
+2024-03-20,Flipkart phone,12000,Shopping
+2024-03-21,Internet bill,999,Bills
+2024-03-22,PVR movie,700,Entertainment
+2024-03-23,Swiggy desserts,290,Food
+2024-03-24,Bus ticket,200,Travel
+2024-03-25,Medical checkup,1500,Medical
+2024-03-26,Book store,380,Education
+2024-03-27,Car EMI,8000,EMI
+2024-03-28,Zomato sushi,920,Food
+2024-03-29,Myntra clothes,1800,Shopping
+2024-03-30,Amazon prime,1499,Entertainment
+2024-03-31,Swiggy monthly,4200,Food
+2024-04-01,Petrol,1700,Travel
+2024-04-02,Water bill,350,Bills
+2024-04-03,Zomato pizza,380,Food
+2024-04-04,Online course,1999,Education
+2024-04-05,Home loan EMI,15000,EMI
+2024-04-06,Swiggy lunch,320,Food
+2024-04-07,Rapido,90,Travel
+2024-04-08,Pharmacy,280,Medical
+2024-04-09,Netflix,649,Entertainment
+2024-04-10,Grocery,2200,Food
+2024-04-11,Amazon bag,850,Shopping
+2024-04-12,Electricity,2050,Bills
+2024-04-13,Zomato thai,650,Food
+2024-04-14,Metro,500,Travel
+2024-04-15,Gym,2000,Medical
+2024-04-16,Swiggy evening,410,Food
+2024-04-17,AJIO sale,2600,Shopping
+2024-04-18,Movie outing,1200,Entertainment
+2024-04-19,Zomato snacks,180,Food
+2024-04-20,Car EMI,8000,EMI
+2024-04-21,Book online,520,Education
+2024-04-22,Ola outstation,1800,Travel
+2024-04-23,Swiggy weekend,750,Food
+2024-04-24,Mobile bill,499,Bills
+2024-04-25,Amazon watch,5500,Shopping
+2024-04-26,Doctor,700,Medical
+2024-04-27,Zomato lunch,360,Food
+2024-04-28,Spotify,119,Entertainment
+2024-04-29,Grocery store,1900,Food
+2024-04-30,Home loan EMI,15000,EMI
